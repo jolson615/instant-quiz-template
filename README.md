@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/instant-quiz-template)](https://repl.it/github/upperlinecode/instant-quiz-template)
+
 Welcome to Glitch
 =================
 
